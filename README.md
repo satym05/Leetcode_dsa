@@ -11,12 +11,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satym05/Leetcode_dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/satym05/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/satym05/Leetcode_dsa/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/satym05/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/satym05/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/satym05/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satym05/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satym05/Leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->

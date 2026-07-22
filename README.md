@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satym05/Leetcode_dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/satym05/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satym05/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

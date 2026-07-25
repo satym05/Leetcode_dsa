@@ -29,6 +29,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satym05/Leetcode_dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/satym05/Leetcode_dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | ------- |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
+| [3536-maximum-product-of-two-digits](https://github.com/satym05/Leetcode_dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
 |  |
 | ------- |

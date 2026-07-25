@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/satym05/Leetcode_dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/satym05/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |

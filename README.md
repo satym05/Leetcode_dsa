@@ -73,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/satym05/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satym05/Leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/satym05/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0016-3sum-closest](https://github.com/satym05/Leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/satym05/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/satym05/Leetcode_dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
 |  |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/satym05/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |

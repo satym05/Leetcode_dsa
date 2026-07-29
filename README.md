@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/satym05/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satym05/Leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/satym05/Leetcode_dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satym05/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -98,12 +99,14 @@
 | ------- |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satym05/Leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/satym05/Leetcode_dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satym05/Leetcode_dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/satym05/Leetcode_dsa/tree/master/0018-4sum) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satym05/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |

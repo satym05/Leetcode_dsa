@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satym05/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@
 | [0009-palindrome-number](https://github.com/satym05/Leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satym05/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satym05/Leetcode_dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/satym05/Leetcode_dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -144,4 +147,12 @@
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

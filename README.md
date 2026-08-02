@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/satym05/Leetcode_dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satym05/Leetcode_dsa/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/satym05/Leetcode_dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -35,6 +36,7 @@
 | [0002-add-two-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/satym05/Leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/satym05/Leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/satym05/Leetcode_dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,4 +161,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/satym05/Leetcode_dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -42,6 +43,7 @@
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satym05/Leetcode_dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satym05/Leetcode_dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -157,11 +159,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -182,4 +186,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satym05/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

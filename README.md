@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satym05/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/satym05/Leetcode_dsa/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/satym05/Leetcode_dsa/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satym05/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
@@ -197,4 +198,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/satym05/Leetcode_dsa/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/satym05/Leetcode_dsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

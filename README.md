@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/satym05/Leetcode_dsa/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/satym05/Leetcode_dsa/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satym05/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
@@ -128,12 +129,14 @@
 | [0016-3sum-closest](https://github.com/satym05/Leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/satym05/Leetcode_dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satym05/Leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satym05/Leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/satym05/Leetcode_dsa/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satym05/Leetcode_dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

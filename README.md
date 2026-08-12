@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/satym05/Leetcode_dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/satym05/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satym05/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/satym05/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/satym05/Leetcode_dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satym05/Leetcode_dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -180,6 +181,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/satym05/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/satym05/Leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/satym05/Leetcode_dsa/tree/master/1140-stone-game-ii) |

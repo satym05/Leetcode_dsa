@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/satym05/Leetcode_dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/satym05/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/satym05/Leetcode_dsa/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/satym05/Leetcode_dsa/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satym05/Leetcode_dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -60,6 +61,7 @@
 | [1140-stone-game-ii](https://github.com/satym05/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satym05/Leetcode_dsa/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/satym05/Leetcode_dsa/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satym05/Leetcode_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/satym05/Leetcode_dsa/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satym05/Leetcode_dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -198,6 +200,7 @@
 | [1140-stone-game-ii](https://github.com/satym05/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satym05/Leetcode_dsa/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/satym05/Leetcode_dsa/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satym05/Leetcode_dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -207,6 +210,7 @@
 | [1140-stone-game-ii](https://github.com/satym05/Leetcode_dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satym05/Leetcode_dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satym05/Leetcode_dsa/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/satym05/Leetcode_dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/satym05/Leetcode_dsa/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
